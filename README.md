@@ -112,6 +112,3 @@ seeds = ["tienda", owner]
 Esto asegura que cada propietario tenga su propia tienda única.
 
 Gracias por leer!! By Blade971
-Esto asegura que cada propietario tenga su propia tienda única.
-
-Gracias por leer!! By Blade971
